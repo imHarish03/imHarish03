@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imHarish03
-- 👀 I’m interested in Java, SQL
+- 👀 I’m interested in Java, Spring Boot, Hibernate, Spring Redis, MySQL, MongoDB
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - harishhari302@gmail.com
