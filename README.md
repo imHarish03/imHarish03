@@ -51,8 +51,8 @@ Currently, I’m focusing on:
 ## 📫 Connect With Me  
 
 - **GitHub:** [imHarish03](https://github.com/imHarish03)  
-- **LinkedIn:** [Hariharan](www.linkedin.com/in/hariharan-r-245684109) *(Add your LinkedIn URL)*  
-- **Email:** [harishhari](mailto:harishhari302@gmail.com) *(Add your email address)*  
+- **LinkedIn:** [Hariharan](www.linkedin.com/in/hariharan-r-245684109)
+- **Email:** [harishhari](mailto:harishhari302@gmail.com)  
 
 ---
 
